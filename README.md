@@ -1,0 +1,2 @@
+# KataPP
+kata pre-project
